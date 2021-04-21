@@ -1,0 +1,25 @@
+/*Assignment Five (02.526 Interactive Data Visualisation)*/
+
+.node:hover{
+  stroke-width: 3px !important;
+  opacity: 1 !important;
+  /*color: grey;*/
+}
+
+body {
+  font-family: 'Raleway', 'Arial';
+  text-align: center; 
+  margin: 5;
+  color: grey;
+  /*background: grey;*/
+}
+
+h1 {
+  text-align: center; 
+  color: grey; 
+  font-size: 56px; 
+  font-family: 'Raleway', sans-serif;
+  /*margin-bottom: 0;*/
+  margin: 0;
+  position: relative;
+}
