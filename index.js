@@ -4,7 +4,7 @@
 
 // set the dimensions and margins of the graph
 var width = 1300
-var height = 445
+var height = 430
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")

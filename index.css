@@ -9,7 +9,7 @@
 body {
   font-family: 'Raleway', 'Arial';
   text-align: center; 
-  margin: 5;
+  margin: 0;
   color: grey;
   /*background: grey;*/
 }
@@ -17,7 +17,7 @@ body {
 h1 {
   text-align: center; 
   color: grey; 
-  font-size: 56px; 
+  font-size: 39px; 
   font-family: 'Raleway', sans-serif;
   /*margin-bottom: 0;*/
   margin: 0;
