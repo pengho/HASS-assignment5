@@ -12,8 +12,8 @@ var svg = d3.select("#my_dataviz")
     .attr("width", width)
     .attr("height", height)
 
-// Read data FY2020
-d3.csv("./Untitled2.csv", function(data) {
+// Read data FY2021
+d3.csv("./Untitled3.csv", function(data) {
 
   // Color palette for continents?
   var color = d3.scaleOrdinal()
@@ -108,3 +108,13 @@ d3.csv("./Untitled2.csv", function(data) {
 
 })
 
+
+
+// Buttons
+// d3.select("#bt1").on("click", function() {
+//   maleMap("male");
+// });
+// d3.select("#bt2").on("click", function() {
+//   femaleMap("female");
+// });
+// maleMap("male");
