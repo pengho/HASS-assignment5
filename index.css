@@ -3,8 +3,23 @@
 .node:hover{
   stroke-width: 3px !important;
   opacity: 1 !important;
-  /*color: grey;*/
 }
+
+/*.tooltip {
+  display: none;
+  background: white;
+  font-size: 14px;
+  padding: 4px;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  height: 36px;
+  width: 220px;
+  z-index: 10;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}*/
 
 body {
   font-family: 'Raleway', 'Arial';
