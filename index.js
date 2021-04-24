@@ -12,8 +12,6 @@ var svg = d3.select("#my_dataviz")
     .attr("width", width)
     .attr("height", height)
 
-
-
 // Read data FY2021
 d3.csv("./Untitled3.csv", function(data) {
 
